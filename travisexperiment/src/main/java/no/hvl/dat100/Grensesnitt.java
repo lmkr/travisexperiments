@@ -21,6 +21,7 @@ public class Grensesnitt extends JFrame {
 
 		final JTextField tall1 = new JTextField(5);
 		final JTextField tall2 = new JTextField(5);
+		
 		final JTextField resultat = new JTextField(20);
 
 		JPanel panel = new JPanel();
